@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+}
+
+#book_display {
+    width: 100%;
+    min-height: 100vh;
+    background-color: aliceblue;
+}
+
+#book_display {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+#add_book {
+    display: block;
+    margin: 1rem auto;
+    padding: 1rem;
+}
