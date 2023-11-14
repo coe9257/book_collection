@@ -84,7 +84,7 @@ function add_book() {
             display_box.appendChild(button);
 
         function submit_book() {
-            console.log("working ");
+            
         }
 
             document.querySelector('.add_book_submit_button').addEventListener("click", submit_book);
